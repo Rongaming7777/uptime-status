@@ -16,9 +16,7 @@ window.Config = {
   // UptimeRobot Api Keys
   // Support both Monitor-Specific and  Read-Only type's Api Key
   ApiKeys: [
-    'm783399407-b5654044806678e2a377de7f',
-    'm783399409-ec794f627ab64b259503f034',
-    'm783491939-22f42834a494fc3eadf69059',
+    'm790285217-fdaf1f4544347497d0dfc11d',
   ],
 
   // if shows monitored site's URL
@@ -33,11 +31,11 @@ window.Config = {
   Navi: [
     {
       text: 'Homepage',
-      url: 'https://51sec.org/'
+      url: 'https://dsc.gg/bot-support.invite'
     },
     {
       text: 'GitHub',
-      url: 'https://github.com/51sec/uptime-status'
+      url: 'https://github.com/Rongaming7777'
     }
   ]
 };
